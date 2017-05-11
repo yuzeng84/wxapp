@@ -1,18 +1,18 @@
 
-- 1：官方工具：[https://mp.weixin.qq.com/debug/w ... tml?t=1476434678461](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1476434678461)
-- 2：简易教程：https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1476434677599
-- 3：设计指南：https://mp.weixin.qq.com/debug/wxadoc/design/index.html
-- 4：设计资源下载：https://mp.weixin.qq.com/debug/wxadoc/design/#资源下载
-- 5：微信小程序公测接入指南：http://www.wxapp-union.com/portal.php?mod=view&aid=259
-- 6：微信小程序支付文档：[https://pay.weixin.qq.com/wiki/d ... pi.php?chapter=3_1#](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=3_1#)
-- 7：新手入门宝典：http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989
-- 8：免费视频：http://www.wxapp-union.com/forum.php?mod=forumdisplay&fid=37&filter=typeid&typeid=7
-- 9：实战宝典：http://www.wxapp-union.com/special/solution.html
-- 10：从注册到上线系列：http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375
-- 11：精品合集：
-          - [微信小程序特殊效果合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4727)
-          - [微信小程序特殊效果合集第二期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4811)
-          - [微信小程序优秀教程及文章合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4742)
+ - 1：官方工具：[https://mp.weixin.qq.com/debug/w ... tml?t=1476434678461](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1476434678461)
+ - 2：简易教程：https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1476434677599
+ - 3：设计指南：https://mp.weixin.qq.com/debug/wxadoc/design/index.html
+ - 4：设计资源下载：https://mp.weixin.qq.com/debug/wxadoc/design/#资源下载
+ - 5：微信小程序公测接入指南：http://www.wxapp-union.com/portal.php?mod=view&aid=259
+ - 6：微信小程序支付文档：[https://pay.weixin.qq.com/wiki/d ... pi.php?chapter=3_1#](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=3_1#)
+ - 7：新手入门宝典：http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989
+ - 8：免费视频：http://www.wxapp-union.com/forum.php?mod=forumdisplay&fid=37&filter=typeid&typeid=7
+ - 9：实战宝典：http://www.wxapp-union.com/special/solution.html
+ - 10：从注册到上线系列：http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4375
+ - 11：精品合集：
+  - [微信小程序特殊效果合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4727)
+    - [微信小程序特殊效果合集第二期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4811)
+    - [微信小程序优秀教程及文章合集第一期](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=4742)
        
        
        
